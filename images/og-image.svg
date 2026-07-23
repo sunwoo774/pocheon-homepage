@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#22250D"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#E8A33D"/>
+  <rect x="0" y="618" width="1200" height="12" fill="#E8A33D"/>
+  <rect x="60" y="60" width="1080" height="510" fill="none" stroke="#5B5E3E" stroke-width="1" stroke-dasharray="6 6"/>
+  <rect x="60" y="60" width="20" height="20" fill="none" stroke="#E8A33D" stroke-width="3"/>
+  <rect x="1120" y="60" width="20" height="20" fill="none" stroke="#E8A33D" stroke-width="3"/>
+  <rect x="60" y="550" width="20" height="20" fill="none" stroke="#E8A33D" stroke-width="3"/>
+  <rect x="1120" y="550" width="20" height="20" fill="none" stroke="#E8A33D" stroke-width="3"/>
+  <circle cx="112" cy="182" r="34" fill="#4B5320"/>
+  <svg x="96" y="166" width="32" height="32" viewBox="0 0 24 24">
+    <path d="M12 3c3 3.6 5.2 6.6 5.2 9.3a5.2 5.2 0 0 1-10.4 0C6.8 9.6 9 6.6 12 3Z" fill="#ffffff"/>
+    <circle cx="12" cy="13.6" r="1.7" fill="#E8A33D"/>
+  </svg>
+  <text x="80" y="300" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#ffffff">포천 한일윌로모터펌프</text>
+  <text x="80" y="360" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#E8A33D">지하수·배수펌프 출장수리</text>
+  <text x="80" y="420" font-family="Pretendard, -apple-system, sans-serif" font-size="22" fill="#CBCDA8">소흘읍·포천동부터 이동면·일동면·관인면까지 · 당일 출장 원칙</text>
+  <text x="80" y="560" font-family="Pretendard, -apple-system, sans-serif" font-size="20" fill="#B9BC97">파워펌프 서비스센터 · 010-4757-3396</text>
+</svg>

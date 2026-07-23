@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pocheon-pump.netlify.app/sitemap.xml
